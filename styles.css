@@ -1,0 +1,16 @@
+/* html {
+    background-color: goldenrod;
+} */
+
+#img-html{
+    position: absolute;
+    right: 0;
+    border-radius: 20px;
+    height: 60%;
+    width: 50%;
+    vertical-align: auto;
+}
+
+h2{
+    text-align:justify;
+}
